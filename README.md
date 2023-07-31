@@ -1,5 +1,3 @@
-![image](https://github.com/wangliang1998/MyBlog/assets/65017081/487f644b-4777-4f11-aaac-aad6cbc5db6a)## MyBlog
-个人博客
 
 ## 项目介绍
 这个项目是一个个人博客系统，旨在提供给用户一个分享和浏览博客的平台。该系统具有以下功能：
